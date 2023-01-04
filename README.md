@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://caodang.fpt.edu.vn/) (FPT Polytechnic).
+- ✍ I'm a student of: [Cao đẳng FPT Polytechnic](https://caodang.fpt.edu.vn/) (FPT Polytechnic).
 
 - 🌱 I’m currently learning.
 
